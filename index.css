@@ -1,0 +1,9 @@
+.container-01 {
+    box-sizing: border-box;
+    width: 100%;
+    height: 1000px;
+}
+.alert1 {
+    position: relative;
+    right: 50px;
+}
